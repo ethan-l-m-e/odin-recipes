@@ -2,3 +2,8 @@
     background-color: antiquewhite;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1 {
+    text-align: center;
+    background-color: darkcyan;
+}

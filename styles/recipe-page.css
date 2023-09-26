@@ -3,6 +3,11 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1 {
+    text-align: center;
+    background-color: darkcyan;
+}
+
 .recipe-main-img {
     height: 400px;
     width: auto;
